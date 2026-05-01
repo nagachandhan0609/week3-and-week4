@@ -1,1 +1,1 @@
-DivisibleByFive
+SmallestCheck
